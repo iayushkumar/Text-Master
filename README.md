@@ -2,6 +2,9 @@
 
 TextMaster is a basic React-based project that allows you to modify text based on your requirements. It provides simple text transformations, including converting text to uppercase, lowercase, removing extra spaces between words, and clearing the text.
 
+
+[View Demo](https://text-master-nine.vercel.app/)
+
 ## Features
 
 - **Uppercase Text:** Convert any text to uppercase.
